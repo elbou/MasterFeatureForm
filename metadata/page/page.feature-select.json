@@ -1,0 +1,148 @@
+{
+  "_id": "page.feature-select",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.feature-select--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "hint": "Let users enter text that’s no longer than a single line",
+          "label": "Text",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "hint": "Let users enter a number",
+          "label": "Number",
+          "value": "auto_value__2"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__3",
+          "_type": "radio",
+          "hint": "Let users enter an exact date",
+          "label": "Date",
+          "value": "auto_value__3"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__4",
+          "_type": "radio",
+          "hint": "Let users enter an email address",
+          "label": "Email",
+          "value": "auto_value__4"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__5",
+          "_type": "radio",
+          "hint": "Let users enter text that can be longer than a single line",
+          "label": "Textarea",
+          "value": "auto_value__5"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__6",
+          "_type": "radio",
+          "hint": "Let users select one option from a list",
+          "label": "Radios",
+          "value": "auto_value__6"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__7",
+          "_type": "radio",
+          "hint": "Let users select one or more options from a list",
+          "label": "Checkboxes",
+          "value": "auto_value__7"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__8",
+          "_type": "radio",
+          "hint": "Let users select and upload one or more files",
+          "label": "File upload",
+          "value": "auto_value__8"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__9",
+          "_type": "radio",
+          "hint": "Group related form inputs",
+          "label": "Fieldset",
+          "value": "auto_value__9"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__10",
+          "_type": "radio",
+          "hint": "Group unrelated components",
+          "label": "Group",
+          "value": "auto_value__10"
+        },
+                 {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__11",
+          "_type": "radio",
+          "hint": "Group related content items as sections within a page",
+          "label": "Section",
+          "value": "auto_value__11"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__12",
+          "_type": "radio",
+          "hint": "Let users select one option from a list (only use as a last resort, as some users find selects difficult to use)",
+          "label": "Select",
+          "value": "auto_value__12"
+        },
+                 {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__13",
+          "_type": "radio",
+          "hint": "Display ‘flat’ content, such as text",
+          "label": "Content",
+          "value": "auto_value__13"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__14",
+          "_type": "radio",
+          "hint": "Let users reveal more information only if they need it (it‘s also known as ‘Details’ in the Design System)",
+          "label": "Hide/reveal",
+          "value": "auto_value__14"
+        },
+                 {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__15",
+          "_type": "radio",
+          "hint": "Differentiate a block of text from the content that surrounds it",
+          "label": "Inset text",
+          "value": "auto_value__15"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__16",
+          "_type": "radio",
+          "hint": "Warn users about something important",
+          "label": "Warning text",
+          "value": "auto_value__16"
+        },
+                 {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__17",
+          "_type": "radio",
+          "hint": "Display important information when a transaction has been completed",
+          "label": "Panel",
+          "value": "auto_value__17"
+        },
+         {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__18",
+          "_type": "radio",
+          "hint": "Display information in rows and columns",
+          "label": "Table",
+          "value": "auto_value__18"
+        },
+                 {
+          "_id": "page.feature-select--radios.auto_name__1--radio.auto_value__19",
+          "_type": "radio",
+          "hint": "Include a form value that is not displayed to users",
+          "label": "Hidden field",
+          "value": "auto_value__19"
+        }
+      ],
+      "legend": "What feature do you want to look at?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "feature-select"
+}

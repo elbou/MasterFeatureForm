@@ -1,0 +1,11 @@
+{
+  "_id": "page.email",
+  "_type": "page.form",
+  "heading": "Email",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
+  "url": "email"
+}

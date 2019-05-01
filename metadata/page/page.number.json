@@ -1,0 +1,20 @@
+{
+  "_id": "page.number",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.number--number.auto_name__3",
+      "_type": "number",
+      "label": "What is your favourite number between 1-10",
+      "name": "auto_name__3",
+      "widthClassInput": "2"
+    }
+  ],
+  "heading": "Number",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "url": "number"
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "page.hiddenfield",
+  "_type": "page.form",
+  "heading": "Hidden Field",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__19"
+  },
+  "url": "hiddenfield"
+}

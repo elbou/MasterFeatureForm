@@ -1,0 +1,11 @@
+{
+  "_id": "page.content",
+  "_type": "page.form",
+  "heading": "Content",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__13"
+  },
+  "url": "content"
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "page.section",
+  "_type": "page.form",
+  "heading": "Section",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__11"
+  },
+  "url": "section"
+}

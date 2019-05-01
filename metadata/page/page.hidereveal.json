@@ -1,0 +1,11 @@
+{
+  "_id": "page.hidereveal",
+  "_type": "page.form",
+  "heading": "Hide/reveal",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__14"
+  },
+  "url": "hidereveal"
+}

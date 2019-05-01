@@ -1,0 +1,11 @@
+{
+  "_id": "page.checkboxes",
+  "_type": "page.form",
+  "heading": "Check Boxes",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__7"
+  },
+  "url": "checkboxes"
+}

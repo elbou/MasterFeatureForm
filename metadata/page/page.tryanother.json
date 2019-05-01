@@ -1,0 +1,27 @@
+{
+  "_id": "page.tryanother",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.tryanother--radios.auto_name__5",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.tryanother--radios.auto_name__5--radio.auto_value__3",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.tryanother--radios.auto_name__5--radio.auto_value__3--2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__3"
+        }
+      ],
+      "legend": "Do you want to look at another component?",
+      "name": "auto_name__5"
+    }
+  ],
+  "url": "tryanother"
+}

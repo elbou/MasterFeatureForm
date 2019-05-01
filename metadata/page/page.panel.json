@@ -1,0 +1,11 @@
+{
+  "_id": "page.panel",
+  "_type": "page.form",
+  "heading": "Panel",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__17"
+  },
+  "url": "panel"
+}

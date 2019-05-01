@@ -1,0 +1,19 @@
+{
+  "_id": "page.date",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.date--date.auto_name__4",
+      "_type": "date",
+      "label": "What is your favourite date?",
+      "name": "auto_name__4"
+    }
+  ],
+  "heading": "Date",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__3"
+  },
+  "url": "date"
+}

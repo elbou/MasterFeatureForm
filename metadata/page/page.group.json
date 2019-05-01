@@ -1,0 +1,11 @@
+{
+  "_id": "page.group",
+  "_type": "page.form",
+  "heading": "Group",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__10"
+  },
+  "url": "group"
+}

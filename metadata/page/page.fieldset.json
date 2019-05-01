@@ -1,0 +1,11 @@
+{
+  "_id": "page.fieldset",
+  "_type": "page.form",
+  "heading": "Fieldset",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__9"
+  },
+  "url": "fieldset"
+}

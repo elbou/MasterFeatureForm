@@ -1,0 +1,20 @@
+{
+  "_id": "page.text",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.text--text.auto_name__2",
+      "_type": "text",
+      "hint": "Primary colours only, blue, red and yellow",
+      "label": "What is your favourite colour?",
+      "name": "auto_name__2"
+    }
+  ],
+  "heading": "Text",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "text"
+}

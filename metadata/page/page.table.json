@@ -1,0 +1,11 @@
+{
+  "_id": "page.table",
+  "_type": "page.form",
+  "heading": "Table",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__18"
+  },
+  "url": "table"
+}
